@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Projekt1.py" line="232" mnemonic="7" />
-    <bookmark url="file://$PROJECT_DIR$/Projekt1.py" line="242" />
-    <bookmark url="file://$PROJECT_DIR$/Projekt1.py" line="122" />
+    <bookmark url="file://$PROJECT_DIR$/Projekt1.py" line="330" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0935719-537f-405f-b94e-1d3dffa77938" name="Default Changelist" comment="" />
+    <list default="true" id="a0935719-537f-405f-b94e-1d3dffa77938" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,18 +19,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projekt1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="243" lean-forward="true" selection-start-line="243" selection-end-line="243" />
+            <state relative-caret-position="1649">
+              <caret line="313" column="36" selection-start-line="313" selection-start-column="36" selection-end-line="313" selection-end-column="36" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <element signature="e#131#216#0" />
-                <element signature="e#292#613#0" />
-                <element signature="e#644#4814#0" />
-                <element signature="e#4853#4870#0" />
-                <element signature="e#4892#5270#0" />
-                <element signature="e#5299#9329#0" />
-                <element signature="e#7034#7355#0" />
-                <element signature="e#7403#7719#0" />
+                <element signature="e#53#165#0" />
+                <element signature="e#200#521#0" />
+                <element signature="e#552#4821#0" />
+                <element signature="e#4837#4854#0" />
+                <element signature="e#4876#5268#0" />
+                <element signature="e#5112#5144#0" />
+                <element signature="e#5183#5217#0" />
+                <element signature="e#5297#9393#0" />
               </folding>
             </state>
           </provider>
@@ -52,10 +53,15 @@
       <find>yard</find>
       <find>decagrams_input</find>
       <find>time.sleep(5)</find>
+      <find>You entered</find>
     </findStrings>
     <replaceStrings>
       <replace>time.sleep(3)</replace>
+      <replace>You've enet</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -64,12 +70,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="555" />
-    <option name="y" value="-15" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="361" />
+    <option name="y" value="242" />
     <option name="width" value="974" />
-    <option name="height" value="1100" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -160,19 +167,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="361" y="242" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12802951" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49932158" visible="true" weight="0.2596154" />
+      <window_info id="Structure" order="1" sideWeight="0.5006784" side_tool="true" weight="0.12802951" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20368364" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19146608" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24593717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.34669557" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
@@ -182,20 +189,27 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14569">
+          <caret line="1082" selection-start-line="1082" selection-end-line="1082" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Projekt1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="243" lean-forward="true" selection-start-line="243" selection-end-line="243" />
+        <state relative-caret-position="1649">
+          <caret line="313" column="36" selection-start-line="313" selection-start-column="36" selection-end-line="313" selection-end-column="36" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#131#216#0" />
-            <element signature="e#292#613#0" />
-            <element signature="e#644#4814#0" />
-            <element signature="e#4853#4870#0" />
-            <element signature="e#4892#5270#0" />
-            <element signature="e#5299#9329#0" />
-            <element signature="e#7034#7355#0" />
-            <element signature="e#7403#7719#0" />
+            <element signature="e#53#165#0" />
+            <element signature="e#200#521#0" />
+            <element signature="e#552#4821#0" />
+            <element signature="e#4837#4854#0" />
+            <element signature="e#4876#5268#0" />
+            <element signature="e#5112#5144#0" />
+            <element signature="e#5183#5217#0" />
+            <element signature="e#5297#9393#0" />
           </folding>
         </state>
       </provider>
